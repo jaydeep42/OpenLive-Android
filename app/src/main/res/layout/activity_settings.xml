@@ -16,14 +16,14 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/label_title_resolution"
-            android:gravity="center"/>
+            android:gravity="center" />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/label_title_frame_rate"
-            android:gravity="center"/>
+            android:gravity="center" />
 
     </LinearLayout>
 
